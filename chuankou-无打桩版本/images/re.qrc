@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="test">
+    <file>editclear.png</file>
+    <file>pause.ico</file>
+    <file>start.ico</file>
+    <file>stop.ico</file>
+    <file>uart.ico</file>
+  </qresource>
+</RCC>
